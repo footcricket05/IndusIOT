@@ -39,6 +39,6 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use i
 
 ## Community and Support 🤝
 
-If you have any questions, feedback, or need assistance, please reach out to our friendly community on [our forums](https://ictgcw2.iotcdac.in/).
+If you have any questions, feedback, or need assistance, please reach out to our friendly community on https://ictgcw2.iotcdac.in/#footer.
 
 We hope the INDUS-IoT Kit empowers you to create amazing IoT applications and sparks your creativity! Happy coding! 🌟
