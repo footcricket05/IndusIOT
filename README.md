@@ -27,7 +27,7 @@ To start working with the INDUS-IoT Kit, follow these simple steps:
 
 3. **Contribute:**
 
-   Feel free to contribute to this repository by sharing your own IoT projects, improvements, or bug fixes. We welcome your contributions!
+   Feel free to contribute to this repository by sharing your own Indus-IoT projects, improvements, or bug fixes. We welcome your contributions!
 
 ## Resources 📚
 
